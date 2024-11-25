@@ -1,8 +1,8 @@
-Contexto
-Semántica
-Concordancia
-Argumentación
-Praxis
-Coherencia
-Legitimidad
+Contexto                                
+Semántica                     
+Concordancia                              
+Argumentación                      
+Praxis                
+Coherencia                      
+Legitimidad                     
 
