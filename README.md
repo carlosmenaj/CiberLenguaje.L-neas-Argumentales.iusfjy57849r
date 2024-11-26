@@ -1,0 +1,1 @@
+Se refieren a los nodos centrales que permiten establecer administrar un tráfico relacional de argumentaciones para lograr la interacción e integración de los contextos argumentales. Se configuran usando una argumentación que luego se incorpora en las estructuras contextuales donde deba ser aplicada para su reutilización.
