@@ -1,1 +1,1 @@
-
+Son aquellas acciones que implican aproximar concurrentes como participantes dentro de un evento como parte de una serie como un protocolo. Implica el ejercicio de determinados roles y actuaciones en consecuencia.
