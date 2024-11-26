@@ -1,0 +1,1 @@
+Se refiere a las argumentaciones para crear una dirección lógica para replicar o representar un espacio bajo ciertas características como un evento al que pueda accederse a distancia. La acción implica algún tipo de transformación, composición o proceso y la capacidad de transmitir o enviar el resultado hacia otra argumentación que actúe como recipiente.
