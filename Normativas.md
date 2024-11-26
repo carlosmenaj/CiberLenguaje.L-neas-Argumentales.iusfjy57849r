@@ -1,0 +1,1 @@
+Permiten establecer una estandarización en la manera de aplicar un determinado accionar. Si la inflexión ya ha sido creada se declara el enlace inter contextual bajo una vertiente establecida para la que se aplica el protocolo normativo estipulado. Si se trata de una nueva situación inflexiva se configura y se le da apertura al nuevo criterio normativo.
