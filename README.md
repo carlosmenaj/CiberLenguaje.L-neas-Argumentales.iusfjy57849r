@@ -1,1 +1,1 @@
-Los Roles demarcan las acciones argumentales que caracterizan las situaciones que conforman los hechos de una Entidad 
+Los Roles demarcan las acciones argumentales que caracterizan las situaciones que conforman los hechos de una Entidad. Este accionar implica un dominio cognitivo que corresponde a alguien con la calidad de ejercerlo y refrendarlo comunicativamente al servicio de los participantes del hecho.  
