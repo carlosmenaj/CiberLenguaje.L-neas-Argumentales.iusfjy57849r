@@ -1,1 +1,1 @@
-
+Se trata de líneas argumentales que establecen una conexión de cómplices para que interactúen desde la distribución del lenguaje como parte de un contexto argumental. Se establecen credenciales y permisos para ocupar un asiento como parte de un rol dentro del esquema bajo una moderación. 
