@@ -1,0 +1,1 @@
+Establecen una especificación o propiedad que establece una conexión lógica y semántica dentro de la argumentación. Permite crear vínculos para asegurar la coherencia, concordancia y sincronía en el Esquema de Lenguaje
