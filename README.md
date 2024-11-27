@@ -1,1 +1,1 @@
-Las Acciones permiten definir el carácter que le corresponde a los hechos que se suscitan en un episodio dentro de una trama a los fines de su esquema de lenguaje. 
+Como los Roles demarcan las acciones argumentales que caracterizan las situaciones que conforman los hechos de una Entidad, cuyo accionar implica un dominio cognitivo que corresponde a alguien con la calidad de ejercerlo y refrendarlo comunicativamente al servicio de los participantes del hecho, las Acciones constituyen el modo en que se conformará la argumentación. 
