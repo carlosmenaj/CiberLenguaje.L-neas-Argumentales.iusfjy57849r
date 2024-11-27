@@ -1,1 +1,1 @@
-
+Son las especificaciones de la manera en que ha de ser presentada la argumentación a los fines de plantear el argumento ante los participantes del hecho en la Entidad. Permite que se pueda incorporar en el Esquema de Lenguaje un contenido a manera de discurso siguiendo una retórica para que sea parte en su debido contexto y que asimilado a los fines de una dialógica en la expansión del lenguaje como un acervo sociocultural validado y auténtico.
