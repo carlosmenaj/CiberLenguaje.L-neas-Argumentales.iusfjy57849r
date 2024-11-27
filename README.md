@@ -1,0 +1,1 @@
+Permite incorporar en el Esquema de Lenguaje un contenido a manera de discurso siguiendo una retórica para que sea incorporado en su debido contexto y asimilado a los fines de una dialógica para que haya participación y expansión del lenguaje. 
