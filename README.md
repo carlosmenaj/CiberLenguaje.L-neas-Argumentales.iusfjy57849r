@@ -1,3 +1,1 @@
-Conforman la conexión y los enlaces mediante las rutas lógicas que establecen el contexto pertinente para que haya una dialógica. De esta manera se conectan los hechos con las actuaciones propias en el debido conocimiento hacia las resoluciones inherentes a esos hechos. El conocimiento se sustenta, aplica y se expande en esas dialógicas mediante una participación activa y concurrente de sus participantes. 
-
-
+Cuando se crean los proyectos donde se presenta la Matriz de Figuración Lenguaje, una vez establecidos los episodios por tramas se aplica el link abriendo en este repositorio el archivo.md que contendrá su estructura por líneas argumentales. Cada sentencia a la vez declara el vínculo a una Wiki donde se presentan los detalles de aplicación. 
