@@ -1,1 +1,16 @@
+#!/bin/bash
+
+# Archivo destino
+OUTPUT_FILE="tabla.md"
+
+# Cabecera de la tabla
+echo "| Columna 1 | Columna 2 | Columna 3 |" > $OUTPUT_FILE
+echo "|-----------|-----------|-----------|" >> $OUTPUT_FILE
+
+# Añadir filas (ejemplo de un bucle)
+for i in {1..5}; do
+    echo "| Fila $iC1 | Fila $iC2 | Fila $iC3 |" >> $OUTPUT_FILE
+done
+
+echo "Tabla generada en $OUTPUT_FILE"
 
